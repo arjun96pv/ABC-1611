@@ -1,0 +1,7 @@
+vnet/.terraform.lock.hcl
+        vnet/.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.10.0/linux_amd64/LICENSE.txt
+      vnet/.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.10.0/linux_amd64/terraform-provider-azurerm_v                    4.10.0_x5
+
+vnet2/.terraform.lock.hcl
+       vnet2/.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.10.0/linux_amd64/LICENSE.txt
+        vnet2/.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.10.0/linux_amd64/terraform-provider-azurerm_                    v4.10.0_x5
